@@ -1,0 +1,11 @@
+H:\Programs\Data Sender To LPT Port\WindowsApplication9\obj\Release\LPT.exe
+H:\Programs\Data Sender To LPT Port\WindowsApplication9\obj\Release\LPT.pdb
+H:\Programs\Data Sender To LPT Port\WindowsApplication9\bin\Release\LPT.exe
+H:\Programs\Data Sender To LPT Port\WindowsApplication9\bin\Release\LPT.pdb
+H:\Programs\Data Sender To LPT Port\WindowsApplication9\obj\Release\ResolveAssemblyReference.cache
+H:\Programs\Data Sender To LPT Port\WindowsApplication9\obj\Release\WindowsApplication9.FormLPT.resources
+H:\Programs\Data Sender To LPT Port\WindowsApplication9\obj\Release\LPT.Properties.Resources.resources
+H:\Programs\Data Sender To LPT Port\WindowsApplication9\obj\Release\LPT.ShowLEDsfrm.resources
+H:\Programs\Data Sender To LPT Port\WindowsApplication9\obj\Release\LPT.csproj.GenerateResource.Cache
+E:\New Arts\Programs\Data Sender To LPT Port\WindowsApplication9\obj\Release\LPT.exe
+E:\New Arts\Programs\Data Sender To LPT Port\WindowsApplication9\obj\Release\LPT.pdb
